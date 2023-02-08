@@ -6,7 +6,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.2.1</version>
-		<relativePath>../notes/pom.xml</relativePath>
+		<relativePath>../pom.xml</relativePath>
 	</parent>
 	<groupId>com.devops</groupId>
 	<artifactId>devops</artifactId>
